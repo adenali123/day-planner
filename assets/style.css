@@ -12,6 +12,27 @@ body {
     border-left: 1px solid #0c3ba1;
     padding: 15px;
   }
+  .jumbotron {
+    text-align: center;
+    background-color: transparent;
+    color: rgb(21, 156, 197);
+    border-radius: 0;
+    border-bottom: 15px solid rgb(21, 156, 197);
+  }
   
+  .description {
+    white-space: pre-wrap;
+  }
+  
+  .time-block {
+    text-align: center;
+    border-radius: 20px;
+  }
+  
+  .row {
+    white-space: pre-wrap;
+    height: 65px;
+    border-top: 1px solid white;
+  }
   
   
