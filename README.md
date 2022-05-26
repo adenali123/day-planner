@@ -9,4 +9,4 @@ URl - https://adenali123.github.io/day-planner/
 
 ### preview
 
-![day-planner](/day-planner/assets/images/Screenshot%202022-05-26%20at%2016.28.48.png)
+![Day Planner](/day-planner/assets/images/Screenshot%202022-05-26%20at%2016.28.48.png)
