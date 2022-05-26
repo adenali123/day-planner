@@ -4,4 +4,9 @@ A Day Planner application that allows a user to save events for each hour of the
 
 ## url
 
-URl 
+URl - https://adenali123.github.io/day-planner/
+
+
+### preview
+
+![dayplanner](/day-planner/assets/images/Screenshot%202022-05-26%20at%2016.28.48.png)
