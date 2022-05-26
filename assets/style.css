@@ -37,4 +37,17 @@ body {
     color: #000000;
     border-top: 1px dashed #000000;
   }
+  .past {
+    background-color: #7c7878;
+    color: #7c7878;
+  }
   
+  .present {
+    background-color: #61b3ff;
+    color: #61b3ff;
+  }
+  
+  .future {
+    background-color: #c9308e;
+    color: #c9308e;
+  }
