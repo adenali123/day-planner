@@ -1,7 +1,7 @@
 body {
     font-family: "Open Sans", sans-serif;
     font-size: 16px;
-    line-height: 2;
+    line-height: 1;
   }
   
   textarea {
@@ -10,7 +10,7 @@ body {
     resize: none;
     color: #0c3ba1;
     border-left: 1px solid #0c3ba1;
-    padding: 15px;
+    padding: 12px;
   }
   .jumbotron {
     text-align: center;
@@ -31,5 +31,10 @@ body {
     white-space: pre-wrap;
     height: 80px;
     border-top: 1px solid white;
+  }
+  .hour {
+    background-color: #ffffff;
+    color: #000000;
+    border-top: 1px dashed #000000;
   }
   
